@@ -8,9 +8,9 @@
 
 ***
 ## 👋 About
-**Tisankan** is the official GitHub organization of **Tisankan Jeyakumar** — CTO at [Yarl Ventures (PVT) Ltd.](https://yarlventures.com), a Jaffna-based technology company building products across healthcare, education, and commerce.[^1][^2]
+**Tisankan** is the official GitHub organization of **Tisankan Jeyakumar** — CTO at [Yarl Ventures (PVT) Ltd.](https://yarlventures.com), a Jaffna-based technology company building products across healthcare, education, and commerce.
 
-This organization serves as the central hub for open-source packages, developer tools, internal projects, and collaborative development. Every repo follows a commitment to clean code, production-grade architecture, thorough documentation, and real-world impact.[^3]
+This organization serves as the central hub for open-source packages, developer tools, internal projects, and collaborative development. Every repo follows a commitment to clean code, production-grade architecture, thorough documentation, and real-world impact.
 ### 🛠️ Core Tech Stack
 | Domain | Technologies |
 |--------|-------------|
@@ -39,11 +39,11 @@ This organization serves as the central hub for open-source packages, developer 
 
 ***
 ## 🏢 Products & Ventures
-Built and shipped under [Yarl Ventures](https://yarlventures.com):[^2]
+Built and shipped under [Yarl Ventures](https://yarlventures.com):
 
 - **🏥 MediMan** — Telehealth platform connecting 100+ verified doctors with 1,200+ users across Sri Lanka. Book consultations, video/audio calls, e-prescriptions, and family health dashboards.[^4]
-- **📚 EDUS** — EdTech platform for online education, powering EDUS Online Institute and EDUS Lanka.[^1]
-- **💼 Yarl Ventures CRM** — Internal business management system for leads, customers, projects, and invoicing.[^2]
+- **📚 EDUS** — EdTech platform for online education, powering EDUS Online Institute and EDUS Lanka.
+- **💼 Yarl Ventures CRM** — Internal business management system for leads, customers, projects, and invoicing.
 
 ***
 ## 🚀 Getting Started
