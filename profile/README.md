@@ -4,12 +4,6 @@
 
 **Building scalable, secure, and production-grade software — from Sri Lanka to the world.**
 
-[
-[
-[
-[
-[
-
 </div>
 
 ***
